@@ -12,10 +12,11 @@ Hi, I'm Kevin Baum, a Data Analyst for Expeditors Google program, where I work w
 
 ## My Toolbox and Experiences 🧰
 - **Languages**: Python, R, SQL, JavaScript, HTML, CSS
-- **Frameworks/Tools**: Airflow, Docker, Bootstrap, Google Apps Script,  
+- **Frameworks/Tools**: Airflow, Docker, Bootstrap, Google Apps Script 
 - **Platforms**: Google Cloud Platform (GCP), Google BigQuery, AWS
 - **Databases**: PostgreSQL, MySQL
 - **Skills**: Data Engineering, Software Systems Engineering, Data Modeling
+- **Dashboards**: Looker Studio, Tableau
 
 ## Featured Projects 🌟
 Here are some projects I've worked on that I'm particularly proud of:
