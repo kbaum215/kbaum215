@@ -8,7 +8,6 @@ Hi, I'm Kevin Baum, a Data Analyst for Expeditors Google program, where I work w
 - **Data Architecture & Database Design**: Proficient in orchestrating the architecture and deployment of relational databases in Google BigQuery using SQL.
 - **ETL & ELT Processes**: Skilled in developing and implementing efficient ETL and ELT workflows, significantly reducing data pipeline run-times by up to 80%.
 - **Data Automations**: Manage end-to-end data automation, from raw data extraction to Google Cloud Platform to visualization in Looker.
-- **Web Development**: Develop web applications that integrate with backend data systems to improve efficiency and user engagement.
 
 ## My Toolbox and Experiences 🧰
 - **Languages**: Python, R, SQL, JavaScript, HTML, CSS
